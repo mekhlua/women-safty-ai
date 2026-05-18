@@ -1,0 +1,10 @@
+{
+  "accel_x": 15.0,
+  "accel_y": -8.0,
+  "accel_z": 3.0,
+  "sos_pressed": false,
+  "gps": {
+    "lat": 23.02,
+    "long": 72.57
+  }
+}
